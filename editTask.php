@@ -75,7 +75,7 @@ if (isset($_POST['update'])) {
 
     <div class="mx-auto">
    
-  <h2>Update your to-do-list</h2>
+ 
  
 	</div>
     
