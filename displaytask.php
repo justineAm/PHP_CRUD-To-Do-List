@@ -70,7 +70,7 @@
 
     <div class="mx-auto">
    
-  <h2>My to-do-list</h2>
+ 
  
 	</div>
     
