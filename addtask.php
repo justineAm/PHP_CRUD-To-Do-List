@@ -75,7 +75,7 @@ div h5{
     </ul>
 
     <div class="mx-auto">
-	  	<h2>To-Do-List</h2>
+	  	
 	</div>
     
     <form class="form-inline my-2 my-lg-0">
