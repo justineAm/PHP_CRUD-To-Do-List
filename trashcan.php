@@ -64,7 +64,7 @@ if(isset($_GET['undoTask'])) {
 
     <div class="mx-auto">
    
-  <h2>Deleted task records</h2>
+  
  
 	</div>
     
